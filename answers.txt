@@ -2,3 +2,8 @@ Q1: Why might be consider using git?
 
 Answer: Version Control -- easy to use. 
 
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Sports. It could help understand what players to draft and when to play what players. 
+
