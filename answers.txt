@@ -7,3 +7,7 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Sports. It could help understand what players to draft and when to play what players. 
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Rebase just makes it so that we have a "cleaner" history, while merge has the full history. 
