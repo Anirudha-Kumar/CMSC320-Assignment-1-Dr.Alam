@@ -11,3 +11,8 @@ Answer: Sports. It could help understand what players to draft and when to play 
 Q3: What is the difference between merging and rebasing?
 
 Answer: Rebase just makes it so that we have a "cleaner" history, while merge has the full history. 
+
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Pandas 
